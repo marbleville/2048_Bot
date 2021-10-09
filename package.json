@@ -1,0 +1,16 @@
+{
+  "name": "2048",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "cd C:/Users/allen/AppData/Roaming/Microsoft/Windows/Start_Menu/Programs/System_Tools/Command_Prompt && node C:/Users/allen/OneDrive/Desktop/Projects/2048/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iohook": "^0.9.3"
+  }
+}
